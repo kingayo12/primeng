@@ -589,7 +589,7 @@ h6 {
   color: #151515;
   border: 2px solid #004aac;
 }
-
+/* 
 .showCaseservices {
   display: flex;
   flex-wrap: wrap;
@@ -599,14 +599,13 @@ h6 {
   justify-content: center;
   gap: 10px;
   max-width: 1300px;
-  /* background: green; */
 }
 
 .showCaseservices > div {
   flex: auto 0 1;
   height: 200px;
   margin: 0;
-}
+} */
 
 .hero_text {
   font-size: clamp(2rem, 4vw, 5rem) !important;
